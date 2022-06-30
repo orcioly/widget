@@ -64,7 +64,7 @@ export function WidgetForm() {
 
 
       <footer className="text-xs text-neutral-400">
-        Feito com ❤️ por <a className="underline underline-offset-2" href="https://linkedin.com/in/orcioly">Orcioly</a>
+        Desenvolvido por <a className="underline underline-offset-2" href="https://linkedin.com/in/orcioly">Orcioly Andrade Alves</a>
       </footer>
     </div >
   )
